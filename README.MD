@@ -1,4 +1,4 @@
-# This script calculate distance in Nautical Miles (NM) from two given points (geographic coordinates) in a CSV file.
+# This script calculates a distance in Nautical Miles (NM) from two given points (geographic coordinates) from a CSV file.
 
 The script reads the CSV file as a dictionary and then calculate Nautical Miles in each row between two given points (arrival and departure airports).
 
